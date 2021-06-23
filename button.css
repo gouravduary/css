@@ -1,0 +1,9 @@
+/* /////// BUTTON /////// */
+input[type="submit"],button {padding: 12px 20px; border-radius: 6px; cursor: pointer; font-size: 1.2rem;}
+input[type="submit"]:hover,button:hover {font-size: 1.4rem; transition: 1s;}
+.noborder {border: none;}
+.transparent {background: transparent;}
+.whiteshadow {box-shadow: 0 0 4px white;}
+.blackshadow {box-shadow: 0 0 4px black;}
+
+/*///////////////////////////*/
