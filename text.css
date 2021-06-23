@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;}
+body {font-size: 15pt; height: 100vh; width: 100%;}
+
+/* //// TEXT STYLE //// */
+.i,.em {font-style: italic;}
+.bold,.strong {font-weight: bold;}
+.u {text-decoration: underline;}
+.mark {background: aquamarine;}
+.del,.strike {text-decoration: line-through;}
+a {color: green; cursor: pointer;}
+a:hover {color: lime;}
+.center {display: grid; align-items: center; justify-content: center;}
+.small {font-size: smaller;}
+.big {font-size: larger;}
+/* //////////////////// */
