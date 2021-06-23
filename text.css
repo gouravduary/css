@@ -13,3 +13,23 @@ a:hover {color: lime;}
 .small {font-size: smaller;}
 .big {font-size: larger;}
 /* //////////////////// */
+
+/* //// TEXT COLOR //// */
+
+.white {color: white;}
+.black {color: black;}
+.blue {color: blue;}
+.red {color: red;}
+.pink {color: pink;}
+.green {color: green;}
+.yellow {color: yellow;}
+.crimson {color: crimson;}
+.purple {color: purple;}
+.lime {color: lime;}
+.navy {color: navy;}
+.orange {color: orange;}
+.tomato {color: tomato;}
+.indigo {color: indigo}
+.violet {color: violet}
+
+/*///////////////////*/
