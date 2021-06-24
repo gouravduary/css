@@ -5,5 +5,7 @@ input[type="submit"]:hover,button:hover {font-size: 1.4rem; transition: 1s;}
 .transparent {background: transparent;}
 .whiteshadow {box-shadow: 0 0 4px white;}
 .blackshadow {box-shadow: 0 0 4px black;}
-
+.bdrred{border:1px solid red;}
+.bdrwhite{border:1px solid white;}
+.bdrblack{border:1px solid black;}
 /*///////////////////////////*/
