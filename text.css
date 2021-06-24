@@ -6,7 +6,7 @@ body {font-size: 15pt; height: 100vh; width: 100%; font-family:'Ubuntu', sans-se
 .i,.em {font-style: italic;}
 .bold,.strong {font-weight: bold;}
 .u {text-decoration: underline;}
-.mark {background: blue; color: yellow;}
+.mark,mark {display: inline-block; background: blue; color: yellow;}
 .del,.strike {text-decoration: line-through;}
 a {color: green; cursor: pointer;}
 a:hover {color: lime;}
