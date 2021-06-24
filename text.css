@@ -5,7 +5,7 @@ body {font-size: 15pt; height: 100vh; width: 100%;}
 .i,.em {font-style: italic;}
 .bold,.strong {font-weight: bold;}
 .u {text-decoration: underline;}
-.mark {background: aquamarine;}
+.mark {background: blue; color: yellow;}
 .del,.strike {text-decoration: line-through;}
 a {color: green; cursor: pointer;}
 a:hover {color: lime;}
