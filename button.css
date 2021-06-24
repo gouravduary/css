@@ -8,9 +8,16 @@ input[type="submit"]:hover,button:hover {font-size: 1.4rem; transition: 1s;}
 .transparent {background: transparent;}
 .whiteshadow {box-shadow: 0 0 4px white;}
 .blackshadow {box-shadow: 0 0 4px black;}
+.redshadow {box-shadow: 0 0 4px red;}
+.limeshadow {box-shadow: 0 0 4px lime;}
+.greenshadow {box-shadow: 0 0 4px green;}
+.blueshadow {box-shadow: 0 0 4px blue;}
+.pinkshadow {box-shadow: 0 0 4px pink;}
+.yellowshadow {box-shadow: 0 0 4px yellow;}
 .bdrred{border:1px solid red;}
 .bdrwhite{border:1px solid white;}
 .bdrblack{border:1px solid black;}
 .bdrblue{border:1px solid blue;}
-.bdrblack{border:1px solid green;}
+.bdrgreen{border:1px solid green;}
+.bdrlime{border:1px solid lime;}
 /*///////////////////////////*/
