@@ -11,4 +11,6 @@ input[type="submit"]:hover,button:hover {font-size: 1.4rem; transition: 1s;}
 .bdrred{border:1px solid red;}
 .bdrwhite{border:1px solid white;}
 .bdrblack{border:1px solid black;}
+.bdrblue{border:1px solid blue;}
+.bdrblack{border:1px solid green;}
 /*///////////////////////////*/
