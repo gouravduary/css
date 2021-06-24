@@ -19,6 +19,8 @@ a:hover {color: lime;}
 .left {text-align: left;}
 .right {text-align: right;}
 .center {text-align: center;}
+.justify {text-align: justify;}
+.scrollable {overflow: auto;}
 /* //////////////////// */
 
 /* //// TEXT COLOR //// */
