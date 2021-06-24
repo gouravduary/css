@@ -14,6 +14,7 @@ a:hover {color: lime;}
 .center {display: flex; flex-direction: column; align-items: center; justify-content: center;}
 .small {font-size: smaller;}
 .big {font-size: larger;}
+
 /* //////////////////// */
 
 /* //// TEXT COLOR //// */
@@ -29,5 +30,7 @@ a:hover {color: lime;}
 .lime {color: lime;}
 .navy {color: navy;}
 .orange {color: orange;}
-
+.uppercase {text-transform: uppercase;}
+.lowercase {text-transform: lowercase;}
+.capitalize {text-transform: capitalize;}
 /*///////////////////*/
