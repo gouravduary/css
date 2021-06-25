@@ -1,5 +1,5 @@
 /* /////// BUTTON /////// */
-input[type="submit"],button {padding: 8px 25px; border-radius: 50px; cursor: pointer; font-size: 1.2rem;}
+input[type="submit"],button {padding: 8px 25px; border-radius: 50px; cursor: pointer; border-width:2px;}
 input[type="submit"]:hover,button:hover {background: transparent;}
 .bdr6px{border-radius: 6px;}
 .bdr12px{border-radius: 12px;}
@@ -7,9 +7,9 @@ input[type="submit"]:hover,button:hover {background: transparent;}
 .bdr50%{border-radius: 50%;}
 .noborder {border: none;}
 .transparent {background: transparent;}
-.whiteshadow {box-shadow: 0 0 4px white;}
+.whiteshadow {box-shadow: 1px 1px 4px white;}
 .blackshadow {box-shadow: 0 0 4px black;}
-.redshadow {box-shadow: 0 0 4px red;}
+.redshadow {box-shadow: 1px 1px 4px red;}
 .limeshadow {box-shadow: 0 0 4px lime;}
 .greenshadow {box-shadow: 0 0 4px green;}
 .blueshadow {box-shadow: 0 0 4px blue;}
