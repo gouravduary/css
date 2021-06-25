@@ -7,18 +7,24 @@ input[type="submit"]:hover,button:hover {background: transparent;}
 .bdr50%{border-radius: 50%;}
 .noborder {border: none;}
 .transparent {background: transparent;}
-.whiteshadow {box-shadow: 1px 1px 4px white;}
-.blackshadow {box-shadow: 0 0 4px black;}
-.redshadow {box-shadow: 1px 1px 4px red;}
-.limeshadow {box-shadow: 0 0 4px lime;}
-.greenshadow {box-shadow: 0 0 4px green;}
-.blueshadow {box-shadow: 0 0 4px blue;}
-.pinkshadow {box-shadow: 0 0 4px pink;}
-.yellowshadow {box-shadow: 0 0 4px yellow;}
+.whiteshadow {box-shadow: 1px 1px 4px white,1px -1px 4px white,-1px 1px 4px white,-1px -1px 4px white;}
+.blackshadow {box-shadow: 1px 1px 4px black,1px -1px 4px black,-1px 1px 4px black,-1px -1px 4px black;}
+.redshadow {box-shadow: 1px 1px 4px red,1px -1px 4px red,-1px 1px 4px red,-1px -1px 4px red;}
+.limeshadow {box-shadow: 1px 1px 4px lime,1px -1px 4px lime,-1px 1px 4px lime,-1px -1px 4px lime;}
+.greenshadow {box-shadow: 1px 1px 4px green,1px -1px 4px green,-1px 1px 4px green,-1px -1px 4px green;}
+.blueshadow {box-shadow: 1px 1px 4px blue,1px -1px 4px blue,-1px 1px 4px blue,-1px -1px 4px blue;}
+.pinkshadow {box-shadow: 1px 1px 4px pink,1px -1px 4px pink,-1px 1px 4px pink,-1px -1px 4px pink;}
+.yellowshadow {box-shadow: 1px 1px 4px yellow,1px -1px 4px yellow,-1px 1px 4px yellow,-1px -1px 4px yellow;}
 .bdrred{border:1px solid red;}
+.bdrred2{border:2px solid red;}
 .bdrwhite{border:1px solid white;}
+.bdrwhite2{border:2px solid white;}
 .bdrblack{border:1px solid black;}
+.bdrblack2{border:2px solid black;}
 .bdrblue{border:1px solid blue;}
+.bdrblue2{border:2px solid blue;}
 .bdrgreen{border:1px solid green;}
+.bdrgreen2{border:2px solid green;}
 .bdrlime{border:1px solid lime;}
+.bdrlime2{border:2px solid lime;}
 /*///////////////////////////*/
