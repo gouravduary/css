@@ -19,6 +19,7 @@ body {font-size: 15pt; height: 100vh; width: 100%; font-family: 'Ubuntu', sans-s
 .center {text-align: center;}
 .justify {text-align: justify;}
 .scrollable {overflow: auto;}
+blockquote {background: #000; color:white; font-size: 1.3em; padding:5% 10%; text-align: justify; }
 /* //////////////////// */
 
 /* //// TEXT COLOR //// */
