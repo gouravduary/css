@@ -25,14 +25,12 @@ blockquote {background: #000; color:white; font-size: 1.3em; padding:5% 10%; tex
 
 .white {color: white;}
 .black {color: black;}
-.blue {color: blue;}
+.blue {color: #1e90ff}
 .red {color: red;}
 .pink,.deeppink {color: deeppink;}
-.green {color: green;}
+.green {color: #17b978;}
 .yellow {color: yellow;}
-.purple {color: purple;}
 .lime {color: lime;}
-.navy {color: navy;}
-.orange {color: orange;}
+.orange {color: #ff4500;}
 .gray {color: gray;}
 /*///////////////////*/
