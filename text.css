@@ -18,7 +18,7 @@ body {font-size: 15pt; height: 100vh; width: 100%; font-family: 'Ubuntu', sans-s
 .center {text-align: center;}
 .justify {text-align: justify;}
 .scrollable {overflow: auto;}
-blockquote{ position: relative; background: black; color: white; border-radius: 8px; word-wrap: break-word; padding: 10px 10px 20px;}
+blockquote{ position: relative; background: black; color: white; border-radius: 8px; word-wrap: break-word; padding: 10px 5%; 0;}
 blockquote::before { content:""; height:100%; width:4%; position: absolute; top:0; left:0; background: #1e90ff; border-radius: 8px 0 0 8px;}
 /* //////////////////// */
 
