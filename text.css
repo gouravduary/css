@@ -3,13 +3,11 @@
 body {font-size: 15pt; height: 100vh; width: 100%; font-family: 'Ubuntu', sans-serif;}
 
 /* //// TEXT STYLE //// */
-.i,.em {font-style: italic;}
-.bold,.strong {font-weight: bold;}
-.u {text-decoration: underline;}
+.i,.italic,.em {font-style: italic;}
+.b,.bold,.strong {font-weight: bold;}
+.u,.underline {text-decoration: underline;}
 .mark,mark {display: inline-block; background: blue; color: yellow;}
 .del,.strike {text-decoration: line-through;}
-a {color: green; cursor: pointer;}
-a:hover {color: lime;}
 .middle {display: flex; flex-direction: column; align-items: center; justify-content: center;}
 .small {font-size: smaller;}
 .big {font-size: larger;}
