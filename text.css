@@ -8,7 +8,6 @@ body {font-size: 15pt; height: 100vh; width: 100%; font-family: 'Ubuntu', sans-s
 .u,.underline {text-decoration: underline;}
 .mark,mark {display: inline-block; background: blue; color: yellow;}
 .del,.strike {text-decoration: line-through;}
-.middle {display: flex; flex-direction: column; align-items: center; justify-content: center;}
 .small {font-size: smaller;}
 .big {font-size: larger;}
 .uppercase {text-transform: uppercase;}
