@@ -18,9 +18,11 @@ body {font-size: 15pt; height: 100vh; width: 100%; font-family: 'Ubuntu', sans-s
 .center {text-align: center;}
 .justify {text-align: justify;}
 .scrollable {overflow: auto;}
-blockquote{ position: relative; background: black; color: white; border-radius: 8px; word-wrap: break-word; padding: 10px 5%; 0;}
-blockquote::before { content:""; height:100%; width:4%; position: absolute; top:0; left:0; background: #1e90ff; border-radius: 8px 0 0 8px;}
 .newspaper {column-count: 2;} .newspaper2 {column-count: 3;}
+.quote {background: linear-gradient(rgba(255,255,255,0.1),rgba(255,255,255,0.1)); backdrop-filter: blur(6px); width: 80%; padding: 10px 30px 30px 20px; margin: 2% auto; border-radius: 0 12px 12px 0;}
+.quote::before {content: ""; height: 100%; width: 2%; background: deeppink; position: absolute; top: 0; left: 0; }
+.quote .heading {color:#17b978; display: block; margin: 1px auto; font-size: 1.6em; text-transform: capitalize; }
+.quote .name{ color : #1e90ff; display:block; text-transform:capitalize; position: absolute; right:0; margin: 3px 20px; font-style:italic;}
 /* //////////////////// */
 
 /* //// TEXT COLOR //// */
