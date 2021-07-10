@@ -1,6 +1,6 @@
 /* /////// BUTTON /////// */
-input[type="submit"],button {padding: 8px 25px; border-radius: 50px; cursor: pointer; border-width:2px;}
-input[type="submit"]:hover,button:hover {background: transparent;}
+button,input[type="submit"] {padding: 5px 10px; font-size: 1.3em; background: #17b978; border: 2px solid #17b978; border-radius: 6px; margin:20px 15px; text-transform: uppercase;}
+  button:hover,input[type="submit"]:hover {background: transparent; color: #17b978; box-shadow: 4px 4px  #000,  6px 6px #17b978, -4px -4px #000, -6px -6px #17b978;}
 .bdr6px{border-radius: 6px;}
 .bdr12px{border-radius: 12px;}
 .bdr50px{border-radius: 50px;}
