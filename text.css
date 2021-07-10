@@ -23,6 +23,27 @@ body {font-size: 15pt; height: 100vh; width: 100%; font-family: 'Ubuntu', sans-s
 .quote::before {content: ""; height: 100%; width: 2%; background: deeppink; position: absolute; top: 0; left: 0; }
 .quote .heading {color:#17b978; display: block; margin: 1px auto; font-size: 1.6em; text-transform: capitalize; }
 .quote .name{ color : #1e90ff; display:block; text-transform:capitalize; position: absolute; right:0; margin: 3px 20px; font-style:italic;}
+input[type="checkbox"],input[type="radio"]{
+      display: none;
+    }
+    input[type="checkbox"]+label,input[type="radio"]+label{
+      border:1px solid gray;
+      background: none;
+      width: 80%;
+      margin: 1% auto;
+      border-radius: 6px;
+      padding: 10px 10px 10px 20px;
+      display: flex;
+      color: gray;
+    }
+    input[type="checkbox"]:checked+label,input[type="radio"]:checked+label{
+      color: white;
+      background: #17b978;
+      border: 1px solid #17b978;
+      transition: 0.3s ease;
+      background: #1e90ff;
+      border: 1px solid #1e90ff;
+    }
 /* //////////////////// */
 
 /* //// TEXT COLOR //// */
